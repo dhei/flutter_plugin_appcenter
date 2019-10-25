@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
 
   _MyAppState() {
     final ios = defaultTargetPlatform == TargetPlatform.iOS;
-    _appSecret = ios ? "a8a33033-ef2f-4911-a664-a7d118287ce7" : "3f1f3b0e-24ff-436a-b42d-3c08b117d46a";
+    _appSecret = ios ? "e8117291-5ceb-4966-8778-a4d97ee663a6" : "ae8895c7-6735-45fc-8be4-28700d36db34";
   }
 
   @override

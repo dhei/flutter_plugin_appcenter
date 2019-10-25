@@ -257,3 +257,4 @@ iOSInjectionProject/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.gitignore.io/api/dart,xcode,flutter,androidstudio,visualstudiocode
+example/ios/Flutter/flutter_export_environment.sh
